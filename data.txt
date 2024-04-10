@@ -1,0 +1,5 @@
+models : 
+1. user (customer and administrator)
+2. products
+3. cart
+4. bill
